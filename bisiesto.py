@@ -4,6 +4,6 @@ def esBisiesto(anyo):
 		print "Bisesto"
 	else:
 		print "No bisiesto"
-esBisiesto (input)
-esBisiesto (input)
-esBisiesto (input) 
+esBisiesto (2100)
+esBisiesto (2300)
+esBisiesto (1995) 
